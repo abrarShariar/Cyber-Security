@@ -55,7 +55,15 @@
 
 	```
 
+## VPN setup
 
-* 
+```
+apt-get install network-manager-openvpn-gnome -y
+apt-get install network-manager-pptp -y
+apt-get install network-manager-pptp-gnome -y
+apt-get install network-manager-strongswan -y
+apt-get install network-manager-vpnc -y
+apt-get install network-manager-vpnc-gnome -y
+```
 
 
