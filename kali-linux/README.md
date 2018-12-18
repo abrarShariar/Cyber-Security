@@ -66,4 +66,17 @@ apt-get install network-manager-vpnc -y
 apt-get install network-manager-vpnc-gnome -y
 ```
 
+## Change MAC address
+
+On mac:
+
+See nertwork devices:
+
+```
+networksetup -listallhardwareports 
+```
+
+Use [macchanger](https://github.com/acrogenesis/macchanger)
+
+
 
